@@ -2,3 +2,4 @@
 set -eu
 
 echo "openclaw-coolify"
+# clarify the control flow

@@ -36,3 +36,4 @@ Notes and usage details for openclaw-coolify.
 - link the usage section
 - link the usage section
 - add a note about the defaults
+- fix a small wording issue

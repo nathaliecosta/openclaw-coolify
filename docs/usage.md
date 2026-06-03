@@ -45,3 +45,4 @@ Notes and usage details for openclaw-coolify.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- fix a small wording issue

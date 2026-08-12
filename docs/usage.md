@@ -50,3 +50,4 @@ Notes and usage details for openclaw-coolify.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- add a note about the defaults
